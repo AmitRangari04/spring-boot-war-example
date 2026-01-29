@@ -23,10 +23,11 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "Welcome to SpringBoot app-new";
+        return "Welcome to SpringBoot in Jan26";
     }
 
 }
+
 
 
 
